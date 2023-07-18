@@ -16,7 +16,9 @@ Javascript만으로 코딩테스트를 준비하며 공부하는 레포입니다
 
 : 제 시리즈의 서론을 여는 글입니다. 제 시리즈를 읽으시기 전에 위의 포스팅을 먼저 읽으시는 것을 추천합니다!
 
-[2] [Javascript로 코테를 준비하는 사람들을 위한 코딩 기초 트레이닝 코스 (2) ~ ing](https://velog.io/@osohyun0224/Javascript%EB%A1%9C-%EC%BD%94%ED%85%8C%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EC%BD%94%EC%8A%A4-2-ing)
+[2] [Javascript로 코테를 준비하는 사람들을 위한 코딩 기초 트레이닝 코스 (2) 30문제](https://velog.io/@osohyun0224/Javascript%EB%A1%9C-%EC%BD%94%ED%85%8C%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EC%BD%94%EC%8A%A4-2-ing)
+
+[3] [Javascript로 코테를 준비하는 사람들을 위한 코딩 기초 트레이닝 코스 (3) 30문제](https://velog.io/@osohyun0224/Javascript%EB%A1%9C-%EC%BD%94%ED%85%8C%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EC%BD%94%EC%8A%A4-3-ing)
 
 : 프로그래머스 [코딩 기초 트레이닝] 코스 문제들을 리뷰하는 포스팅입니다. 주로 JS 코테용 함수들 고찰에 대해 다루었습니다.
 
